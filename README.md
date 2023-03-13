@@ -145,7 +145,7 @@ We will add a `Dockerfile` to the `cd` branch. The `Dockerfile` contains a set o
   Define terms and link to docs.github.com.
 -->
 
-<details id=3 open>
+<details id=3>
 <summary><h2>Step 3: Merge your changes</h2></summary>
 
 _Let's get publishing! :heart:_
@@ -166,7 +166,7 @@ You can now [merge](https://docs.github.com/en/get-started/quickstart/github-glo
   Define terms and link to docs.github.com.
 -->
 
-<details id=4>
+<details id=4 open>
 <summary><h2>Step 4: Pull your image</h2></summary>
 
 _Now things are running! :sparkles:_
@@ -217,7 +217,7 @@ If everything went well, :crossed_fingers: you should see `Login Succeeded` in y
   Define terms and link to docs.github.com.
 -->
 
-<details id=5>
+<details id=5 open>
 <summary><h2>Step 5: Run your image</h2></summary>
 
 _Nicely done grabbing your Docker image! :relaxed:_
@@ -246,7 +246,7 @@ Let's trying running it.
   Review what we learned, ask for feedback, provide next steps.
 -->
 
-<details id=X>
+<details id=X open>
 <summary><h2>Finish</h2></summary>
 
 _Congratulations friend, you've completed this course!_
